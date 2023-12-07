@@ -6,7 +6,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 
  I'm a DevOPS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Israel.
  - :telescope: I’m currently learning and doing projects.
